@@ -9,5 +9,8 @@ int main(){
     cout<<x/y<<endl;
 }
 
+
+// float for decimals
+
 // float -------------------------REAL NUMBERS---------------------------------
 
